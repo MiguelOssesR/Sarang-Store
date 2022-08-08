@@ -1,14 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: blueviolet;
+    color: white;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     
 }
-.Contenedor nav{
-    
-}
 
 footer{
-    padding: 0%;
-    margin: 0%;
     text-align: center;
     color: white;
     background-color: rgb(50, 50, 50);
