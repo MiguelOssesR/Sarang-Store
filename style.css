@@ -1,12 +1,21 @@
 *{
-    font-family: "BhuTuka Expanded One", cursive;
     margin: 0%;
     padding: 0%;
+    box-sizing: border-box;
 }
 
 header {
     background-color: blueviolet;
     color: white;
+}
+
+.hero{
+    background: url("../images/Camisas.png")center/cover;
+    height: 300px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 body{
@@ -18,3 +27,5 @@ footer{
     color: white;
     background-color: rgb(50, 50, 50);
 }
+
+/* Esto es un comentario en CSS */
